@@ -40,7 +40,7 @@ def arithmetic_game():
         try:
             user_answer = float(user_input)
             if abs(user_answer - correct_answer) < 1e-5:  # Allow minor float differences
-                print("Correct! 🎉")
+                print("Correct!")
                 score += 1
             else:
                 print(f"Wrong. The correct answer was: {correct_answer}")
