@@ -1,5 +1,4 @@
 ---
-
 ### **1. Understand the Basics of Python**
 Before diving into Django, ensure you have a strong foundation in Python, particularly:
 - Functions and OOP (Object-Oriented Programming)
